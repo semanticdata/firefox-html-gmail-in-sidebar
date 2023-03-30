@@ -18,3 +18,7 @@ When you're in Basic HTML view, you won't see some Gmail features, including:
 - Adding or importing contacts
 - Custom "from" addresses
 - Rich formatting
+
+## Disclaimer
+
+This Add-on is primarily for personal use; a personal project if you will. I'm just trying to use Gmail on the Firefox sidebar. This add-on just launches their webapp in the sidebar. This extension is an independent project, has no relationship, and is not affiliated to Gmail in any way.
