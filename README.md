@@ -1,6 +1,12 @@
-![image](/icons/48x48.png)
+<h1 align=center><img src="/icons/48x48.png" /> Basic HTML Gmail in Sidebar</h1>
 
-# Basic HTML Gmail in Sidebar
+<p align=center>
+<img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/%7Bd27465f8-080f-46b6-92b0-9aa8931fa0c9%7D?style=for-the-badge">
+<img src="https://img.shields.io/amo/rating/%7Bd27465f8-080f-46b6-92b0-9aa8931fa0c9%7D?style=for-the-badge" />
+<img src="https://img.shields.io/amo/dw/%7Bd27465f8-080f-46b6-92b0-9aa8931fa0c9%7D?style=for-the-badge" />
+<img src="https://img.shields.io/amo/users/%7Bd27465f8-080f-46b6-92b0-9aa8931fa0c9%7D?style=for-the-badge" />
+<img src="https://img.shields.io/github/license/datastring/firefox-telegram-in-sidebar?style=for-the-badge" />
+</p>
 
 A Firefox WebExtension to display the HTML only version of Gmail within the Firefox sidebar. This extension adds a new section to the sidebar which contains this version of Gmail. It also adds a shortcut, and a button toggle within the toolbar.
 
