@@ -1,3 +1,5 @@
+>⚠️ This project is not actively used or maintained. Archived on 2023-05-07.
+
 <h1 align=center><img src="/icons/48x48.png" /> Basic HTML Gmail in Sidebar</h1>
 
 <p align=center>
